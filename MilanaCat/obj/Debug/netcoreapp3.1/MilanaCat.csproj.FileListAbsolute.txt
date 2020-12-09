@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\MilanaCat\MilanaCat\obj\Debug\netcoreapp3.1\MilanaCat.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\MilanaCat\MilanaCat\obj\Debug\netcoreapp3.1\MilanaCat.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\MilanaCat\MilanaCat\obj\Debug\netcoreapp3.1\MilanaCat.AssemblyInfo.cs
+C:\Users\opilane\source\repos\MilanaCat\MilanaCat\obj\Debug\netcoreapp3.1\MilanaCat.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\MilanaCat\MilanaCat\bin\Debug\netcoreapp3.1\MilanaCat.exe
+C:\Users\opilane\source\repos\MilanaCat\MilanaCat\bin\Debug\netcoreapp3.1\MilanaCat.deps.json
+C:\Users\opilane\source\repos\MilanaCat\MilanaCat\bin\Debug\netcoreapp3.1\MilanaCat.runtimeconfig.json
+C:\Users\opilane\source\repos\MilanaCat\MilanaCat\bin\Debug\netcoreapp3.1\MilanaCat.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\MilanaCat\MilanaCat\bin\Debug\netcoreapp3.1\MilanaCat.dll
+C:\Users\opilane\source\repos\MilanaCat\MilanaCat\bin\Debug\netcoreapp3.1\MilanaCat.pdb
+C:\Users\opilane\source\repos\MilanaCat\MilanaCat\obj\Debug\netcoreapp3.1\MilanaCat.dll
+C:\Users\opilane\source\repos\MilanaCat\MilanaCat\obj\Debug\netcoreapp3.1\MilanaCat.pdb
+C:\Users\opilane\source\repos\MilanaCat\MilanaCat\obj\Debug\netcoreapp3.1\MilanaCat.genruntimeconfig.cache

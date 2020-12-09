@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilanaCat", "MilanaCat\MilanaCat.csproj", "{8ACF049E-03B0-4033-9755-CB25473CBC58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cat2", "Cat2\Cat2.csproj", "{FE250ED7-9BCE-4918-BC7B-AEE3D3A01EE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ACF049E-03B0-4033-9755-CB25473CBC58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ACF049E-03B0-4033-9755-CB25473CBC58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ACF049E-03B0-4033-9755-CB25473CBC58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ACF049E-03B0-4033-9755-CB25473CBC58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE250ED7-9BCE-4918-BC7B-AEE3D3A01EE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE250ED7-9BCE-4918-BC7B-AEE3D3A01EE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE250ED7-9BCE-4918-BC7B-AEE3D3A01EE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE250ED7-9BCE-4918-BC7B-AEE3D3A01EE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F1EFB33-96B5-43EA-ABF8-BD28D8AA81DB}
+	EndGlobalSection
+EndGlobal
